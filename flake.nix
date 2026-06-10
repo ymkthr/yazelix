@@ -32,7 +32,7 @@
       inputs.fenix.follows = "fenix";
     };
     yazelixZellijBar = {
-      url = "github:luccahuguet/yazelix-zellij-bar";
+      url = "github:ymkthr/yazelix-zellij-bar";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.fenix.follows = "fenix";
       inputs.zjstatus.follows = "zjstatus";
