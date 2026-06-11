@@ -542,11 +542,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1781137841,
-        "narHash": "sha256-0TfTmp+25ySyok+9Fv41T+mXZ+Lh/O7cscX44O8iGOQ=",
+        "lastModified": 1781140522,
+        "narHash": "sha256-dZN8gC5kcYS2EVunn62oRPDKXQ/0+Gw6OnBC2wPy0dE=",
         "owner": "ymkthr",
         "repo": "yazelix-zellij-bar",
-        "rev": "cd0f29b9545d5d5ee880ba0eb117339ed05bccc3",
+        "rev": "fae4f1f0e25085cbd2e761f24b10d717dffa3728",
         "type": "github"
       },
       "original": {
